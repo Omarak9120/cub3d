@@ -63,6 +63,9 @@ $ git clone --recursive https://github.com/omarak9120/cub3d.git
 ## Git sync main
 ```Bash
 $ git clone
+$ Make
+$ valgrind --leak-check=full -q ./cub3d maps/rave.cub
+$ and have fun with the game
 ```
 
 
