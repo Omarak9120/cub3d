@@ -1,5 +1,3 @@
-# cub3d
-
 # ![Screen-Shot-2022-04-02-at-18 04 30](https://user-images.githubusercontent.com/28810331/161394297-4250216d-6d18-4fc9-9784-f95309fa3952.svg)
 <div align="center">
 
